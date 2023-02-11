@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/application-development-banner_1325-399.jpg?w=1800&t=st=1654499266~exp=1654499866~hmac=ea8bcce4a7b79208a6d93f13fac8b09c8d2a68b402fd08acfaec22d1928cc679)
+<!-- ![MasterHead](https://img.freepik.com/free-vector/application-development-banner_1325-399.jpg?w=1800&t=st=1654499266~exp=1654499866~hmac=ea8bcce4a7b79208a6d93f13fac8b09c8d2a68b402fd08acfaec22d1928cc679) -->
 <h1 align="center">Hi 👋, I'm Baker Mrad</h1>
 <h3 align="center">A passionate frontend developer from Lebanon</h3>
 
