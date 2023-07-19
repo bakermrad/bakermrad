@@ -24,10 +24,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bakermrad&" alt="bakermrad" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bakermrad&theme=black-ice"
-    alt="bakermrad" /></p>
-
-<br />
-
 
 ## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/bakermrad?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/bakermrad?tab=followers"><img align="right" src="https://img.shields.io/github/followers/bakermrad?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/bakermrad">  <img align="right" src="https://komarev.com/ghpvc/?username=bakermrad"></a>
