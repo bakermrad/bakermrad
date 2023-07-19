@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Baker Mrad</h1>
 <h3 align="center">A passionate Full-Stack developer from Lebanon.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bakermrad&label=Profile%20views&color=0e75b6&style=flat" alt="bakermrad" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakermrad&label=Profile%20views&color=0e75b6&style=flat" alt="bakermrad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bakermrad" alt="bakermrad" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bakermrad" alt="bakermrad" /></a> </p> -->
 
 - 📫 How to reach me **Bakermradwork@gmail.com**
 
@@ -22,3 +22,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bakermrad&show_icons=true&locale=en" alt="bakermrad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bakermrad&" alt="bakermrad" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bakermrad&theme=black-ice"
+    alt="bakermrad" /></p>
+
+<br />
+
+
+## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/bakermrad?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/bakermrad?tab=followers"><img align="right" src="https://img.shields.io/github/followers/bakermrad?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/bakermrad">  <img align="right" src="https://komarev.com/ghpvc/?username=bakermrad"></a>
